@@ -1,10 +1,10 @@
 ﻿# MULTI-INSTALADOR PLUS
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Multi_Instalador_sshplus.png)
+![logo](https://github.com/cerberus9116/multi/blob/master/Imagenes/Multi_Instalador_sshplus.png)
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Multi-Instalador/sshplus.sh; chmod +x sshplus.sh; ./sshplus.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Multi-Instalador/sshplus.sh; chmod +x sshplus.sh; ./sshplus.sh
 
 ```
 Despues solo necesitara ejecutar la siguiente linea para usar nuevamente: mip
@@ -15,7 +15,7 @@ Despues solo necesitara ejecutar la siguiente linea para usar nuevamente: mip
 
 **VERSION: r021**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Multi-Instalador/versao
+https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Multi-Instalador/versao
 
 ## :octocat: Credits
 
@@ -24,5 +24,5 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/ma
 3. illuminati Dev Team - Contributor 
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/cerberus_ghost ☆
 ```
