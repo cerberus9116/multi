@@ -2,7 +2,7 @@
 #====================================================
 #
 #  Modificaciones Al Codigo: illuminati Dev Team
-#  https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
+#  https://t.me/cerberus_ghost
 #
 #====================================================
 cat /dev/null > ~/.bash_history && history -c
@@ -382,7 +382,7 @@ if [ ! -e /var/www/html/1:8%7o.2sg3-q:5 ]; then
 #KEYGEN SSHPPLUS ON
 pkill -f 80
 apt-get install apache2 -y > /dev/null 2>&1
-wget -O /etc/apache2/ports.conf https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Install/ports2.conf > /dev/null 2>&1
+wget -O /etc/apache2/ports.conf https://github.com/cerberus9116/multi/blob/master/Install/Generador/Install/ports2.conf > /dev/null 2>&1
 service apache2 restart > /dev/null 2>&1
 echo "#KEYGEN SSHPPLUS ON" > /var/www/html/1:8%7o.2sg3-q:5
 echo ""
@@ -391,7 +391,7 @@ echo -e "\033[1;32mRodando Apache2 Porta 80"
 else
 #KEYGEN SSHPPLUS OFF
 pkill -f 80
-wget -O /etc/apache2/ports.conf https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Install/ports.conf > /dev/null 2>&1
+wget -O /etc/apache2/ports.conf https://github.com/cerberus9116/multi/blob/master/Install/Generador/Install/ports.conf > /dev/null 2>&1
 service apache2 restart > /dev/null 2>&1
 rm -rf /var/www/html/1:8%7o.2sg3-q:5
 echo ""
@@ -412,7 +412,7 @@ echo -e "\n\033[1;31mENTER \033[1;33mpara retornar ao \033[1;32mMENU!\033[0m"
 ;;
 7)
 clear
-rm $HOME/instgerador.sh* > /dev/null 2>&1; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh*
+rm $HOME/instgerador.sh* > /dev/null 2>&1; wget https://github.com/cerberus9116/multi/blob/master/Install/Generador/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh*
 exit
 ;;
 8)
@@ -428,7 +428,7 @@ exit
     rm -rf /var/www/html/scripts > /dev/null 2>&1
     rm -rf /var/www/html/1:8%7o.2sg3-q:5 > /dev/null 2>&1
     pkill -f 80
-    wget -O /etc/apache2/ports.conf https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Install/ports.conf > /dev/null 2>&1
+    wget -O /etc/apache2/ports.conf https://github.com/cerberus9116/multi/blob/master/Install/Generador/Install/ports.conf > /dev/null 2>&1
     service apache2 restart > /dev/null 2>&1
 exit
 clear
