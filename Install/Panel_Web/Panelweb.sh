@@ -90,7 +90,7 @@ rm -rf $HOME/sshplus.sql*
 rm -rf $HOME/bd-v15.sql*
 rm -rf $HOME/ssh.sql*
 rm -rf $HOME/plus.sql*
-rm -rf $HOME/Panelweb.sh* > /dev/null 2>&1; https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/Panelweb.sh > /dev/null 2>&1
+rm -rf $HOME/Panelweb.sh* > /dev/null 2>&1; wget https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/Panelweb.sh > /dev/null 2>&1
 echo ""
 echo -e "\033[1;33m CLEAN FOLDER COM SUCESSO -\033[1;32m OK !\033[1;37m"
 sleep 4s
