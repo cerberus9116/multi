@@ -15,7 +15,7 @@
 
 ## :book: Instalação
 
-apt-get update -y; apt-get upgrade -y; wget https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
 
 ```
 Depois disso você só precisa executar a seguinte linha para usar novamente: ipw
