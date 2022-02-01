@@ -1,32 +1,32 @@
-﻿## SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO: 20 (Installation Directa)
+﻿## SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO: 20 (Installation Direta)
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Painel_Revenda_SSH.png)
+![logo](https://github.com/cerberus9116/multi/blob/master/Imagenes/Painel_Revenda_SSH.png)
 
 ```
-PAINEL REVENDA SSH es una herramienta completa de gestión y supervisión de usuarios que permite
-                 reventas y sub revendedores para aquellos que desean tener un negocio más amplio, 
-                 también tiene una interfaz intuitiva, a la que se puede acceder desde cualquier 
-                 navegador ...
+PAINEL REVENDA SSH é uma ferramenta completa de gerenciamento e supervisão de usuários que permite
+                 revendedores e sub-revendedores para quem deseja ter um negócio maior,
+                 Também possui uma interface intuitiva, que pode ser acessada de qualquer
+                 navegador...
 ```
 
 **Manager Script**
 
-## :heavy_exclamation_mark: Requerimientos
+## :heavy_exclamation_mark: Requerimentos
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
-* Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64 / Ubuntu 18.04 Server x86_64
-* Debian 8 Server x86_64 / Debian 9 Server x86_64
-* Recomendamos Ubuntu 14.04 Server x86_64
-* Se recomienda usar una distro nueva o formatiada
+* Um sistema operacional baseado em Linux (Ubuntu ou Debian)
+* Servidor Ubuntu 14.04 x86_64 / Servidor Ubuntu 16.04 x86_64 / Servidor Ubuntu 18.04 x86_64
+* Servidor Debian 8 x86_64 / Servidor Debian 9 x86_64
+* Recomendamos o Ubuntu 14.04 Server x86_64
+* Recomenda-se usar uma distro nova ou formatada
 
-## :book: Installation
+## :book: Instalação simples
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; chmod 777 install* && ./install*
+apt-get update -y; apt-get upgrade -y; wget https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/panel_v20/install; chmod 777 install* && ./install*
 
 ```
-Installation [ BETA ]
+Instalação [ BETA ]
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install_new; chmod 777 install_new* && ./install_new*
+apt-get update -y; apt-get upgrade -y; wget https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/panel_v20/install_new; chmod 777 install_new* && ./install_new*
 ```
 
 # INSTALACION BACKUP-PANEL-V20 
@@ -34,13 +34,13 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 bash <(wget -qO- https://raw.githubusercontent.com/CRAZY-VPN/BACKUP-PAINEL-V20/master/restaurar.sh)
 
-NOTA: ¡LA CONTRASEÑA DE ADMINISTRADOR SERÁ LA MISMA CONTRASEÑA DEL PANEL ANTEERIOR!
+OBS: A SENHA DO ADMINISTRADOR SERÁ A MESMA DO PAINEL ANTERIOR!
 
-# SINCRONIZAR EL PANEL WEB
+# SINCRONIZAR O PAINEL DA WEB
 
 bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
 
-- ¡APLIQUE ESTE COMANDO AL SERVIDOR DE CONEXIONES SSH! 
+- ¡APLIQUE ESTE COMANDO NO SERVIDOR DE CONEXIONES SSH! 
 
 -------------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
 
 **VERSION: 20**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/versao
+https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/panel_v20/versao
 
 ## :octocat: Credits
 
@@ -56,7 +56,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/ma
 2. @backup-new - Contributor
 3. @Adeilsonfi - Contributor
 4. illuminati Dev Team - Contributor 
+5. @CERBERUS_GHOST - MODIFICADOR
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/cerberus_ghost ☆
 ```
