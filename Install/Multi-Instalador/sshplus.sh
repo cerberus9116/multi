@@ -33,42 +33,42 @@ menu ()
 {
 #MANAGER SCRIPTS
 sshplusfree () {
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Plus; chmod 777 Plus; ./Plus
 }
 sshplusDEV () {
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/SSHPlus-Dev/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/SSHPlus-Dev/Plus; chmod 777 Plus; ./Plus
 }
 sshpluskey () {
 apt-get update -y; apt-get upgrade -y; wget sshplus.xyz/script/Plus; chmod 777 Plus; ./Plus
 }
 #PAINEL WEB SCRIPTS
 panel_v20 () {
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install > /dev/null 2>&1; chmod 777 install* && ./install*
+wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/panel_v20/install > /dev/null 2>&1; chmod 777 install* && ./install*
 }
 panel_v23 () {
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v23/install > /dev/null 2>&1; chmod +x install; ./install
+wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/panel_v23/install > /dev/null 2>&1; chmod +x install; ./install
 }
 panel_v23_2 () {
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v23_2/install > /dev/null 2>&1; chmod +x install; ./install
+wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/panel_v23_2/install > /dev/null 2>&1; chmod +x install; ./install
 }
 panel_v25 () {
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v25/install > /dev/null 2>&1; chmod +x install; ./install
+wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/panel_v25/install > /dev/null 2>&1; chmod +x install; ./install
 }
 #UPDATE VIP-VPS v23 a v25
 panel_update2325 () {
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v23_2/atu-v23-p-v25 > /dev/null 2>&1; chmod +x atu-v23-p-v25; ./atu-v23-p-v25
+wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/panel_v23_2/atu-v23-p-v25 > /dev/null 2>&1; chmod +x atu-v23-p-v25; ./atu-v23-p-v25
 }
 #PANEL WEB VERSIONES
 panelwebversiones () {
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/Panelweb.sh; chmod +x Panelweb.sh; ./Panelweb.sh
 }
 #GEYGEN SSHPLUS MANAGER
 keyssh () {
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Generador/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh*
 }
 #TCP-SPEED
 fun_tcpspeed () {
-rm -rf $HOME/tcptweaker.sh* > /dev/null 2>&1; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/TCP-Speed/tcptweaker.sh > /dev/null 2>&1; chmod +x tcptweaker.sh; ./tcptweaker.sh
+rm -rf $HOME/tcptweaker.sh* > /dev/null 2>&1; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/TCP-Speed/tcptweaker.sh > /dev/null 2>&1; chmod +x tcptweaker.sh; ./tcptweaker.sh
 }
 #OPCIONES DE SISTEMA
 atualizar () {
@@ -78,7 +78,7 @@ fun_bar "apt-get upgrade -y"
 fun_att () {
     service ssh restart > /dev/null 2>&1
     rm -rf $HOME/sshplus.sh* > /dev/null 2>&1
-    wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Multi-Instalador/sshplus.sh > /dev/null 2>&1
+    wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Multi-Instalador/sshplus.sh > /dev/null 2>&1
 }
 fun_bar 'fun_att'
 echo ""
@@ -111,7 +111,7 @@ echo -e "\033[1;31m[\033[1;36m09\033[1;31m] \033[1;33mTCP-TWEAKER-1.0 (TCP-SPEED
 echo -e "\033[1;31m[\033[1;36m10\033[1;31m] \033[1;35m[!] \033[1;32mACTUALIZAR                \033[1;31mRam:\033[1;37m $_usor "
 echo -e "\033[1;31m[\033[1;36m11\033[1;31m] \033[1;35m[!] \033[1;31mDESINSTALAR \033[1;35m[\033[1;37m MIP \033[1;35m]       \033[1;31mNucleo:\033[1;37m $_usop "
 echo -e "\033[1;31m[\033[1;36m00\033[1;31m] \033[1;37mSALIR \033[1;32m<\033[1;33m<\033[1;31m< \033[0m"
-echo -e "                           \033[1;37m@AAAAAEXQOSyIpN2JZ0ehUQ\033[0m \033[0m"
+echo -e "                           \033[1;37m@cerberus_ghost\033[0m \033[0m"
 echo -e "$barra"
 echo ""
 echo -ne "\033[1;32mOQUE DESEJA FAZER \033[1;33m?\033[1;31m?\033[1;37m : "; read x
