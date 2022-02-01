@@ -4,12 +4,11 @@ barra="\033[0m\e[34m━━━━━━━━━━━━━━━━━━━━
 fun_bar () {
 comando[0]="$1"
 comando[1]="$2"
- (
 [[ -e $HOME/fim ]] && rm $HOME/fim
 ${comando[0]} > /dev/null 2>&1
 ${comando[1]} > /dev/null 2>&1
 touch $HOME/fim
- ) > /dev/null 2>&1 &
+ > /dev/null 2>&1 &
  tput civis
 echo -ne "  \033[1;33mAGUARDE \033[1;37m- \033[1;33m["
 while true; do
