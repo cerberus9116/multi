@@ -3,13 +3,13 @@
 * UPDATE 17/07/2021 - Proyecto Descontinuado
 * SSHPLUS MANAGER (Final Version 37)
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
+![logo](https://github.com/cerberus9116/multi/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 ```
-SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
-                 ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-                 VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-                 y los usuarios ...
+SCRIPT SSHPLUS MANAGER é um script com um conjunto de funcionalidades e ferramentas adequadas para
+                 oferecem extrema facilidade de uso em servidores Linux com foco no uso de
+                 VPN, possui uma interface agradável fornecendo informações detalhadas sobre a máquina
+                 e os usuários...
 ```
 
 **Manager Script**
@@ -24,7 +24,7 @@ SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herram
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
