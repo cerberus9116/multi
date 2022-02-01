@@ -90,7 +90,7 @@ rm -rf $HOME/sshplus.sql*
 rm -rf $HOME/bd-v15.sql*
 rm -rf $HOME/ssh.sql*
 rm -rf $HOME/plus.sql*
-rm -rf $HOME/Panelweb.sh* > /dev/null 2>&1; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/Panelweb.sh > /dev/null 2>&1
+rm -rf $HOME/Panelweb.sh* > /dev/null 2>&1; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Panel_Web/Panelweb.sh > /dev/null 2>&1
 echo ""
 echo -e "\033[1;33m CLEAN FOLDER COM SUCESSO -\033[1;32m OK !\033[1;37m"
 sleep 4s
@@ -163,7 +163,7 @@ echo -e "\033[1;31m[\033[1;36m15\033[1;31m] \033[1;37m• \033[1;33mPAINEL REMOV
 echo -e "\033[1;31m[\033[1;36m16\033[1;31m] \033[1;35m[!] \033[1;32mACTUALIZAR                \033[1;31mRam:\033[1;37m $_usor "
 echo -e "\033[1;31m[\033[1;36m17\033[1;31m] \033[1;35m[!] \033[1;31mDESINSTALAR \033[1;35m[\033[1;37m IPW \033[1;35m]       \033[1;31mNucleo:\033[1;37m $_usop "
 echo -e "\033[1;31m[\033[1;36m00\033[1;31m] \033[1;37mSALIR \033[1;32m<\033[1;33m<\033[1;31m< \033[0m"
-echo -e "                           \033[1;37m@AAAAAEXQOSyIpN2JZ0ehUQ\033[0m \033[0m"
+echo -e "                           \033[1;37m@cerberus_ghost\033[0m \033[0m"
 echo -e "$barra"
 echo ""
 echo -ne "\033[1;32mOQUE DESEJA FAZER \033[1;33m?\033[1;31m?\033[1;37m : "; read x
