@@ -44,7 +44,7 @@ SSHPLUS MANAGER (dependências ausentes serão instaladas automaticamente)
 
 ## :book: Installation Alternos
 
-1. [MULTI-INSTALADOR PLUS](https://github.com/cerberus911601/multi/tree/master/Install/Multi-Instalador)
+1. [MULTI-INSTALADOR PLUS](https://github.com/cerberus9116/multi/tree/master/Install/Multi-Instalador)
 2. [PAINEL REVENDA SSH (VERSIONES)](https://github.com/cerberus9116/multi/tree/master/Install/Panel_Web)
 3. [TCP-Tweaker-1.0 (TCP-SPEED)](https://github.com/cerberus9116/multi/tree/master/Install/TCP-Speed)
 
@@ -54,7 +54,7 @@ SSHPLUS MANAGER (dependências ausentes serão instaladas automaticamente)
 
 **VERSION: 37**
 
-https://raw.githubusercontent.com/cerberus9116/multi/master/versao
+https://github.com/cerberus9116/multi/blob/master/versao
 
 ## :octocat: Credits
 
