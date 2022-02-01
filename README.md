@@ -12,43 +12,41 @@ SCRIPT SSHPLUS MANAGER é um script com um conjunto de funcionalidades e ferrame
                  e os usuários...
 ```
 
-**Manager Script**
+**ManagerScript**
 
-## :heavy_exclamation_mark: Requerimientos
+## :heavy_exclamation_mark: Requisitos
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
-* Ubuntu 18.04 Server x86_64 / Ubuntu 20.04 Server x86_64
-* Debian 8 Server x86_64 / Debian 9 Server x86_64
+* Um sistema operacional baseado em Linux (Ubuntu ou Debian)
+* Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
+* Servidor Debian 8 x86_64 / Servidor Debian 9 x86_64
 * Recomendamos Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
-* Se recomienda usar una distro nueva o formatiada
+* Recomenda-se usar uma distro nova ou formatada
 
-## :book: Installation
-
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Plus; chmod 777 Plus; ./Plus
+## :book:Instalação
+apt-get update -y; apt-get upgrade -y; wget https://github.com/cerberus9116/multi/blob/master/Plus; chmod 777 Plus; ./Plus
 
 ```
-SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
+SSHPLUS MANAGER (dependências ausentes serão instaladas automaticamente)
 ```
 -------------------------------------------------------------------------------
 
 ## :book: Opcional
 
-1. Reinstalar el Scripts ejecutar en consola el comando sshplus
-2. Segundo menu adaptado ejecute en consola el comando menuV2 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
-3. Tercer menu adaptado formato ADM ejecute en consola el comando menuV3 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
-4. Restablecer el menu original ejecute en consola el comando menuV1 [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
-5. Descargar Codigo Fuente [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus-Painel-Generador.zip)
+1. Reinstale os Scripts execute o comando sshplus no console
+2. Segundo menu adaptado, execute o comando menuV2 no console [Ver Imagen](https://github.com/cerberus9116/multi/blob/master/Imagenes/Update_menuV2.png)
+3. O terceiro formato ADM adaptado ao menu executa o comando menuV3 no console [Ver Imagen](https://github.com/cerberus9116/multi/blob/master/Imagenes/Update_menuV3.png)
+4. Restaure o menu original execute o comando menuV1 no console [Ver Imagen](https://github.com/cerberus9116/multi/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 ## :book: Installation Utilitarios
 
-1. [GENERADOR DE KEY SSHPLUS MANAGER](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
-2. [SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO: 20 (Installation Directa)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web/panel_v20)
+1. [GENERADOR DE KEY SSHPLUS MANAGER](https://github.com/cerberus9116/multi/tree/master/Install/Generador)
+2. [SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO: 20 (Installation Directa)](https://github.com/cerberus9116/multi/tree/master/Install/Panel_Web/panel_v20)
 
 ## :book: Installation Alternos
 
-1. [MULTI-INSTALADOR PLUS](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Multi-Instalador)
-2. [PAINEL REVENDA SSH (VERSIONES)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
-3. [TCP-Tweaker-1.0 (TCP-SPEED)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/TCP-Speed)
+1. [MULTI-INSTALADOR PLUS](https://github.com/cerberus911601/multi/tree/master/Install/Multi-Instalador)
+2. [PAINEL REVENDA SSH (VERSIONES)](https://github.com/cerberus9116/multi/tree/master/Install/Panel_Web)
+3. [TCP-Tweaker-1.0 (TCP-SPEED)](https://github.com/cerberus9116/multi/tree/master/Install/TCP-Speed)
 
 -------------------------------------------------------------------------------
 
@@ -56,13 +54,14 @@ SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
 
 **VERSION: 37**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/versao
+https://raw.githubusercontent.com/cerberus9116/multi/master/versao
 
 ## :octocat: Credits
 
 1. @crazy_vpn - Developer of SSHPlus Manager
 2. illuminati Dev Team - Contributor 
+3. cerberus_ghost - edição/modificação
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/cerberus_ghost [  ✰ ] ☆
 ```
