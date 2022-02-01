@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/cerberus9116/multi/master/Install/Multi-Instal
 1. @crazy_vpn - Developer of SSHPlus Manager
 2. @Adeilsonfi - Contributor
 3. illuminati Dev Team - Contributor 
+4. cerberus_ghost - Modificação
 
 ```
 ☆ https://t.me/cerberus_ghost ☆
