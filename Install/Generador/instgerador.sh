@@ -1,8 +1,7 @@
 #!/bin/bash
 #====================================================
 #
-#  Modificaciones Al Codigo: illuminati Dev Team
-#  https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
+#  https://t.me/cerberus_ghost
 #
 #====================================================
 clear
@@ -87,19 +86,19 @@ fun_preparasis () {
 fun_downser () {
 cd
 cd /home/_script_$/crz
-wget https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/raw/master/Install/Generador/Install/sshplus-v37.zip
+wget https://github.com/cerberus9116/multi/raw/master/Install/Generador/Install/sshplus-v37.zip
 unzip sshplus-v37.zip
 rm -rf sshplus-v37.zip
 cd
 }
 
 fun_instsis () {
-wget -O /home/list https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Modulos/list
-wget -O /home/index.html https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Modulos/index.html
-wget -O /bin/keyssh https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Modulos/keyssh
-wget -O /bin/otimizar https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Modulos/otimizar
-wget -O /var/www/html/scripts/Plus https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Modulos/Plus
-wget -O /var/www/html/script/versao https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Generador/Modulos/versao
+wget -O /home/list https://github.com/cerberus9116/multi/blob/master/Install/Generador/Modulos/list
+wget -O /home/index.html https://github.com/cerberus9116/multi/blob/master/Install/Generador/Modulos/index.html
+wget -O /bin/keyssh https://github.com/cerberus9116/multi/blob/master/Install/Generador/Modulos/keyssh
+wget -O /bin/otimizar https://github.com/cerberus9116/multi/blob/master/Install/Generador/Modulos/otimizar
+wget -O /var/www/html/scripts/Plus https://github.com/cerberus9116/multi/blob/master/Install/Generador/Modulos/Plus
+wget -O /var/www/html/script/versao https://github.com/cerberus9116/multi/blob/master/Install/Generador/Modulos/versao
 }
 
 fun_permisoarq () {
@@ -164,6 +163,6 @@ echo -e "$barra"
 ## echo -e " \033[1;36m> \033[1;37mAtualizar a Base do Servidor "
 echo -e "\033[1;31m\033[1;33mCOMANDO PRINCIPAL: \033[1;32mkeyssh o key \033[0m"
 echo -e "\033[1;33mMAIS INFORMACOES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[0m"
-echo -e "                     \033[1;37m@AAAAAEXQOSyIpN2JZ0ehUQ\033[0m"
+echo -e "                     \033[1;37m@cerberus_ghost\033[0m"
 echo -e "$barra"
 rm $HOME/instgerador.sh* && cat /dev/null > ~/.bash_history && history -c
