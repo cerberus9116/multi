@@ -24,7 +24,7 @@ SCRIPT SSHPLUS MANAGER é um script com um conjunto de funcionalidades e ferrame
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/cerberus9116/multi/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 SSHPLUS MANAGER (las dependencias faltantes se instalarán automáticamente)
