@@ -26,7 +26,7 @@ apt-get update -y; apt-get upgrade -y; wget https://github.com/cerberus9116/mult
 ```
 Instalação [ BETA ]
 
-apt-get update -y; apt-get upgrade -y; wget https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/panel_v20/install_new; chmod 777 install_new* && ./install_new*
+apt-get update -y; apt-get upgrade -y; wget wget https://github.com/cerberus9116/multi/blob/master/Install/Panel_Web/panel_v20/install_new; chmod 777 install_new* && ./install_new*
 ```
 
 # INSTALACION BACKUP-PANEL-V20 
