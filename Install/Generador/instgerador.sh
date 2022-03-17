@@ -5,7 +5,6 @@
 #
 #====================================================
 clear
-clear
 [[ "$(whoami)" != "root" ]] && {
 echo -e "\033[1;33m[\033[1;31mErro\033[1;33m] \033[1;37m- \033[1;33mvocê precisa executar como root\033[0m"
 rm $HOME/instgerador.sh* > /dev/null 2>&1; exit 0
